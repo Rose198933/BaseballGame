@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee878ed122867b4d8b42a8f13c316dc, type: 3}
+  m_Name: Tigers
+  m_EditorClassIdentifier: 
+  teamName: "\u962A\u795E\u30BF\u30A4\u30AC\u30FC\u30B9"
+  teamIcon: {fileID: 21300000, guid: 84a3892880e17024da4d090c22cf8b90, type: 3}
